@@ -47,18 +47,3 @@ def birthday2():
     t = saved_h2
     n = totalHashCount
     return (s, t, n)
-
-
-          
-    
-    
-        
-        
-    
-    
-
-    
-        
-        
-    
-
